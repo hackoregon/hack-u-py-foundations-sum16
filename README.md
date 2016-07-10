@@ -5,7 +5,7 @@
 **OMSI Fish Bowl** - 945 SE Water Ave, Portland, OR 97214
 Mondays and Wednesdays 6-9PM
 
-**Instructor:** Riley Rustad riley+python@hackorgeon.org	831-917-3567
+**Instructor:** Riley Rustad *contact info distributed in class*
 
 **Office Hours:**	TBD
 ***
