@@ -43,27 +43,4 @@ Certificates are distributed via an open sourced badging program, [badgr.io](htt
 
 #### Grading Policy
 Badges will be issued based upon attendance and participation in class. No more than 3 absences will be allowed, no more than 2 being unexcused. If you must miss class, please contact me, and we'll schedule a time to catch you up.
-***
-## Python 2 vs Python 3
-> "Short version: Python 2.x is legacy, Python 3.x is the present and future of the language"
 
-[source](https://wiki.python.org/moin/Python2orPython3)
-#### Python 2
-* Came out in 2000
-* The latest version 2.7 was released in 2010
-* Will lose support in 2020
-
-#### Python 3
-* Was released in 2008
-* More libraries are beginning to support python 3, but not all (good way to contribute to open source)
-
-#### Which will we choose?
-
-![](images/steve.gif)
-
-#### Both! ...sort of
-* We'll use 2.7, since if you were going to get a job today, that's likely what you'd be using
-* Organizations still have Python 2 in code base, which means if you were to get hired tomorrow, you'd likely have to program in 2.7
-
-#### Can I still learn 3?
-* We will teach you the effective differences along the way, so you'll recognize and be able to code in python 3, and how to convert python 2 to 3
