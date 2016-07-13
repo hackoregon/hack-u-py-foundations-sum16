@@ -32,7 +32,7 @@ Mondays and Wednesdays 6-9PM
 - Lesson 0 - Setup
 - Lesson 1 - Motivations/Overview/Basic Data Types
 - Lesson 2 - More Basic *Data Types*
-- Lesson 3 - Lists/Tuples
+- Lesson 3 - Lists/Tuples/Git Tutorial
 - Lesson 4 - Dictionaries/Sets
 - Lesson 5 - Python Syntax/ Code Structures/Statements
 - Lesson 6 - Functions
