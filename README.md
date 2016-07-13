@@ -30,8 +30,24 @@ Mondays and Wednesdays 6-9PM
 # Curriculum Overview
 
 - Lesson 0 - Setup
-- Lesson 1 - Motivations/Background/Basic Data Types
+- Lesson 1 - Motivations/Overview/Basic Data Types
 - Lesson 2 - More Basic *Data Types*
+- Lesson 3 - Lists/Tuples
+- Lesson 4 - Dictionaries/Sets
+- Lesson 5 - Python Syntax/ Code Structures/Statements
+- Lesson 6 - Functions
+- Lesson 7 - Modules, Packages, and Programs
+- Lesson 8 - Objects and classes
+- Lesson 9 - Objects and Classes 2
+- Lesson 10 - Exception handling
+- Lesson 11 - Testing your Code
+- Lesson 12 - Database basics/Documentation
+### Applications of Python
+- Lesson 13 - Internet of Things, Art with Python
+- Lesson 14 - Web Scraping Tutorial/ Data Science
+- Lesson 15 - Machine Learning
+- Lesson 16 - Web Frameworks
+
 
 ## Specific Learning Outcomes 
 (what you can tell your current/future employers)
