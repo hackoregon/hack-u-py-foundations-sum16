@@ -27,14 +27,14 @@ Mondays and Wednesdays 6-9PM
 * Beginners who have never programmed
 * Programmers coming in from another language or refresh their Python
 ***
-# Curriculum Overview
+# Curriculum Overview (subject to change)
 
 - Lesson 0 - Setup
 - Lesson 1 - Motivations/Overview/Basic Data Types
 - Lesson 2 - More Basic *Data Types*
 - Lesson 3 - Lists/Tuples/Git Tutorial
 - Lesson 4 - Dictionaries/Sets
-- Lesson 5 - Python Syntax/ Code Structures/Statements
+- Lesson 5 - Python Syntax/ Code Structures/Statements/ Loops
 - Lesson 6 - Functions
 - Lesson 7 - Modules, Packages, and Programs
 - Lesson 8 - Objects and classes
@@ -46,7 +46,7 @@ Mondays and Wednesdays 6-9PM
 - Lesson 13 - Internet of Things, Art with Python
 - Lesson 14 - Web Scraping Tutorial/ Data Science
 - Lesson 15 - Machine Learning
-- Lesson 16 - Web Frameworks
+- Lesson 16 - Web Frameworks, open source
 
 
 ## Specific Learning Outcomes 
@@ -54,6 +54,9 @@ Mondays and Wednesdays 6-9PM
 
 Learn object/data structure basics, Basic opperators,statements, methods and functions, Object Oreinted Programming, Errors and Exception Handling, Using/Creating Modules, built-in Functions, decorators, generators. Also, include instruction on getting "unstuck" in the process of learning to fish. Create a project that builds upon your knowledge throughout, and use Git/GitHub to display your work.
 ***
+### Course Communication
+The primary platform that we use in Hack University to communicate is Slack. If you haven't been invited to slack yet or want to set it up with another email addres, shoot me an email and I'll get you invited. Feel free to check out any of the other channels too. It's a good way to get exposure to new topics and ideas.
+
 ### Certificate of Completion
 Certificates are distributed via an open sourced badging program, [badgr.io](http://www.badgr.io), which is compliant with [Mozilla Open Badges](http://openbadges.org/) the current industry recgognized leader for verifiable digital credentials.
 
