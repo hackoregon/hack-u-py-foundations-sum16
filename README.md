@@ -13,8 +13,8 @@ Mondays and Wednesdays 6-9PM
 1. Feel confident enough to take a more specialized Python Course, and contribute to a Hack Oregon Project.
 2. Develop a lifelong love of programming.
 3. Feel comfortable putting "proficient in Python" on your CV.
-4. Read, undserstand, and write beautiful Python code.
-5. Develop a Gitub Portfolio to show off what you've built.
+4. Read, understand, and write beautiful Python code.
+5. Develop a GitHub Portfolio to show off what you've built.
 6. Join the Hack Oregon community of professionals, students, events, and communications that will help your career and the state of Oregon.
 
 ## Core Principles
@@ -42,6 +42,7 @@ Mondays and Wednesdays 6-9PM
 - Lesson 10 - Exception handling
 - Lesson 11 - Testing your Code
 - Lesson 12 - Database basics/Documentation
+
 ### Applications of Python
 - Lesson 13 - Internet of Things, Art with Python
 - Lesson 14 - Web Scraping Tutorial/ Data Science
