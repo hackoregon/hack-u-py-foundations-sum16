@@ -53,13 +53,13 @@ Mondays and Wednesdays 6-9PM
 ## Specific Learning Outcomes 
 (what you can tell your current/future employers)
 
-Learn object/data structure basics, Basic opperators,statements, methods and functions, Object Oreinted Programming, Errors and Exception Handling, Using/Creating Modules, built-in Functions, decorators, generators. Also, include instruction on getting "unstuck" in the process of learning to fish. Create a project that builds upon your knowledge throughout, and use Git/GitHub to display your work.
+Learn object/data structure basics, Basic operators, statements, methods and functions, Object Oriented Programming, Errors and Exception Handling, Using/Creating Modules, built-in Functions, decorators, generators. Also, include instruction on getting "unstuck" in the process of learning to fish. Create a project that builds upon your knowledge throughout, and use Git/GitHub to display your work.
 ***
 ### Course Communication
-The primary platform that we use in Hack University to communicate is Slack. If you haven't been invited to slack yet or want to set it up with another email addres, shoot me an email and I'll get you invited. Feel free to check out any of the other channels too. It's a good way to get exposure to new topics and ideas.
+The primary platform that we use in Hack University to communicate is Slack. If you haven't been invited to slack yet or want to set it up with another email address, shoot me an email and I'll get you invited. Feel free to check out any of the other channels too. It's a good way to get exposure to new topics and ideas.
 
 ### Certificate of Completion
-Certificates are distributed via an open sourced badging program, [badgr.io](http://www.badgr.io), which is compliant with [Mozilla Open Badges](http://openbadges.org/) the current industry recgognized leader for verifiable digital credentials.
+Certificates are distributed via an open sourced badging program, [badgr.io](http://www.badgr.io), which is compliant with [Mozilla Open Badges](http://openbadges.org/) the current industry recognized leader for verifiable digital credentials.
 
 #### Grading Policy
 Badges will be issued based upon attendance and participation in class. No more than 3 absences will be allowed, no more than 2 being unexcused. If you must miss class, please contact me, and we'll schedule a time to catch you up.
