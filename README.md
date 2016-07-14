@@ -1,6 +1,6 @@
 # Python Foundations
 ---
-**Summer 2016** - (July 19th - September 15th) Class Break: mid August
+**Summer 2016** - (July 19th - September 8th)
 
 **OMSI Fish Bowl** - 945 SE Water Ave, Portland, OR 97214
 Mondays and Wednesdays 6-9PM
