@@ -2,7 +2,7 @@
 ---
 **Summer 2016** - (July 19th - September 8th)
 
-**OMSI Fish Bowl** - 945 SE Water Ave, Portland, OR 97214
+**CENTRL Office** - 1355 NW Everett St, Portland, OR 97209
 Mondays and Wednesdays 6-9PM
 
 **Instructor:** Riley Rustad *contact info distributed in class*
