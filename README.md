@@ -12,7 +12,7 @@ Mondays and Wednesdays 6-9PM
 ## Aims and Outcomes
 1. Feel confident enough to take a more specialized Python Course, and contribute to a Hack Oregon Project.
 2. Develop a lifelong love of programming.
-3. Feel comfortable putting "proficient in Python" on your CV.
+3. Feel comfortable putting "[proficient in Python](https://www.reddit.com/r/Python/comments/2fkv4h/when_are_you_considered_proficient_in_python/)" on your CV.
 4. Read, understand, and write beautiful Python code.
 5. Develop a GitHub Portfolio to show off what you've built.
 6. Join the Hack Oregon community of professionals, students, events, and communications that will help your career and the state of Oregon.
@@ -41,7 +41,7 @@ Mondays and Wednesdays 6-9PM
 - Lesson 9 - Objects and Classes 2
 - Lesson 10 - Exception handling
 - Lesson 11 - Testing your Code
-- Lesson 12 - Database basics/Documentation
+- Lesson 12 - Database basics/Documentation/pep8/virtualenv/
 
 ### Applications of Python
 - Lesson 13 - Internet of Things, Art with Python
