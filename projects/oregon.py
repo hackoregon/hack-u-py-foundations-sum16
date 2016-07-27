@@ -1,5 +1,0 @@
-player1 = input('What is your name?: ')
-player2 = input('What is your player2 name?: ')
-player3 = input('What is your player3 name?: ')
-player4 = input('What is your player4 name?: ')
-player5 = float(input('What is your player5 name?: ')
