@@ -32,22 +32,27 @@ Mondays and Wednesdays 6-9PM
 - Lesson 0 - Setup
 - Lesson 1 - Motivations/Overview/Basic Data Types
 - Lesson 2 - More Basic *Data Types*
-- Lesson 3 - Lists/Tuples/Git Tutorial
+- Lesson 3 - Lists/Tuples/
 - Lesson 4 - Dictionaries/Sets
 - Lesson 5 - Python Syntax/ Code Structures/Statements/ Loops
-- Lesson 6 - Functions
-- Lesson 7 - Modules, Packages, and Programs
-- Lesson 8 - Objects and classes
-- Lesson 9 - Objects and Classes 2
-- Lesson 10 - Exception handling
-- Lesson 11 - Testing your Code
-- Lesson 12 - Database basics/Documentation/pep8/virtualenv/
+- Lesson 6 - More Statements/ List Comprehenseions/ While Loops
+- Lesson 7 - Functions!!!
+- Lesson 8 - More Function Practice
+- Lesson 9 - Git/Github/Command Line
+- Lesson 10 - Modules, Packages, Programs, and virtualenv
+- Lesson 11 - Objects and Classes/ Unit Tests
+- Lesson 12 - Objects and Classes 2/ Exception Handling
 
-### Applications of Python
-- Lesson 13 - Internet of Things, Art with Python
-- Lesson 14 - Web Scraping Tutorial/ Data Science
-- Lesson 15 - Machine Learning
-- Lesson 16 - Web Frameworks, open source
+### Additional Topics - with remaining 2 weeks.
+- Database basics
+- Documentation
+- pep8/refactoring
+- Internet of Things
+- Art with Python
+- Web Scraping Tutorial/ Data Science
+- Machine Learning
+- Web Frameworks
+- open source
 
 
 ## Specific Learning Outcomes 
